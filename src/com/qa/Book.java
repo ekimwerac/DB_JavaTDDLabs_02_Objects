@@ -27,6 +27,9 @@ public class Book {
     public String[] getAuthors() {
         return authors;
     }
+    public void setAuthors(String[] authors) {
+        this.authors = authors;
+    }
 
     public double getPrice() {
         return price;
