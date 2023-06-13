@@ -1,4 +1,3 @@
-//TestBooks.java
 package com.qa;
 
 public class TestBooks {
